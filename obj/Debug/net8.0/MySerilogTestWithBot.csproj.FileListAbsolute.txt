@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\bin\Debug\net8.0\MySerilogTestWithBot.deps.json
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\bin\Debug\net8.0\MySerilogTestWithBot.dll
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\bin\Debug\net8.0\MySerilogTestWithBot.pdb
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\bin\Debug\net8.0\Tbot.dll
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\bin\Debug\net8.0\Tbot.pdb
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\obj\Debug\net8.0\MySerilogTestWithBot.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\obj\Debug\net8.0\MySerilogTestWithBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\obj\Debug\net8.0\MySerilogTestWithBot.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\obj\Debug\net8.0\MySerilogTestWithBot.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\obj\Debug\net8.0\MySerilogTestWithBot.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\obj\Debug\net8.0\MySerilo.487774F3.Up2Date
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\obj\Debug\net8.0\MySerilogTestWithBot.dll
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\obj\Debug\net8.0\refint\MySerilogTestWithBot.dll
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\obj\Debug\net8.0\MySerilogTestWithBot.pdb
+C:\Users\Dell\source\repos\DataBaseLogApp\MySerilogTest\obj\Debug\net8.0\ref\MySerilogTestWithBot.dll
